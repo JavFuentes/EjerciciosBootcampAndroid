@@ -43,11 +43,11 @@ public class Trabajador {
 	public int descomponerRun() {
 		String runSinDV = "";
 		for (int i = 0; i < run.length(); i++) {
-			char c = run.charAt(i);
-			if(c == '-') {
+			char caracterExtraido = run.charAt(i);
+			if(caracterExtraido == '-') {
 				break;
 			}else {
-				runSinDV = runSinDV + c;
+				runSinDV = runSinDV + caracterExtraido;
 			}
 		}
 		
