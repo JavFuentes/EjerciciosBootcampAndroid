@@ -1,3 +1,7 @@
+-- Autor: Javier Fuentes Espinosa
+-- Descripción: ABP1
+-- Fecha: 2023-02-27
+
 USE abp1;
 
 /*
