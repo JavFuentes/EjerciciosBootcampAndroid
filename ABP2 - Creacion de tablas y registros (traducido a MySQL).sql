@@ -48,4 +48,3 @@ Durán',1,5000,2500,7500,2);
 INSERT INTO ventas (idventa, cantarticulos, clientes_idcliente, subtotal,
 impuesto, total) VALUES (5,3,3,3800,100,4000);
 
-select * from ventas
